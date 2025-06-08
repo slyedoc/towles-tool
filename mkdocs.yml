@@ -5,7 +5,7 @@ site_description: Helper cli commands from a developer
 site_author: Chris Towles
 edit_uri: edit/main/docs/
 repo_name: ChrisTowles/towles-tool
-copyright: Maintained by <a href="https://ChrisTowles.com">ChrisTowles</a>.
+copyright: Maintained by <a href="https://Chris.Towles.dev">Chris Towles</a>.
 
 nav:
   - Home: index.md

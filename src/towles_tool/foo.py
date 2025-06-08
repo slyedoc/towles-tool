@@ -1,3 +1,9 @@
+def main() -> str:
+    """main function"""
+
+    print("Hello, World from towles-tool!")
+
+
 def foo(bar: str) -> str:
     """Summary line.
 

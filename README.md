@@ -21,13 +21,16 @@ Helper cli commands from a developer
 
 ### Set Up Your Development Environment
 
-Setup Requires uvenv. See [here](https://fpgmaas.github.io/cookiecutter-uv/getting-started/#set-up-your-development-environment) for more details.
+Setup Requires uv . See [here](https://fpgmaas.github.io/cookiecutter-uv/getting-started/#set-up-your-development-environment) for more details.
 
 Then, install the environment and the pre-commit hooks with
 
 ```bash
 make install
 ```
+
+Now in vs code you can run `Python: select interpreter` and chose the `.venv` folder in the repo root.
+
 
 ### Commit the changes
 
@@ -51,4 +54,4 @@ For more details, see [here](https://fpgmaas.github.io/cookiecutter-uv/features/
 
 ## Blog Posts
 
-Chris Also keeps a blog where he writes about his learnings. Check it out here: https://chris.towles.dev/ and follow him on twitter: https://twitter.com/Chris_Towles
+Chris Also keeps a blog where he writes about his learnings. Check it out here: https://chris.towles.dev/ and follow me on twitter: https://twitter.com/Chris_Towles
