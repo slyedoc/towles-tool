@@ -47,3 +47,8 @@ For more details, see [here](https://fpgmaas.github.io/cookiecutter-uv/features/
 ## Brother's Contract
 
 - 2025-06-07: Patrick agreed that while he loves rust. he can not add it to this project until he first addes and extendsion system to do it first.
+
+
+## Blog Posts
+
+Chris Also keeps a blog where he writes about his learnings. Check it out here: https://chris.towles.dev/ and follow him on twitter: https://twitter.com/Chris_Towles
