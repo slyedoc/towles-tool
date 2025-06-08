@@ -1,4 +1,4 @@
-def main() -> str:
+def main() -> None:
     """main function"""
 
     print("Hello, World from towles-tool!")
